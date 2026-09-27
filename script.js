@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", function() {
     const textContainer = document.getElementById("text-container");
     const messages = [
-        "Chúc mừng sinh nhật",
-        "Phạm Thái Dương",
-        "Chúc cậu năm mới thật nhiều niềm vui!"
+        "HAPPY BIRTHDAY !!!",
+        "Người nào đó vừa bị lừa",
+        "Xin lỗi nhá =)"
     ]; 
     
     let msgIndex = 0;
